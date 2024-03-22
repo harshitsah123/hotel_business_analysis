@@ -77,12 +77,14 @@ An automated dashboard providing quick & latest business insights in order to su
 - Realisation WoW change %
 
  
- # Report Snapshot- main page (Power BI DESKTOP)
+ ### Report Snapshot- main page (Power BI DESKTOP)
 
 ![hotel_dashboard](https://github.com/harshitsah123/hotel_business_analysis/assets/76686265/5ecce3cb-ca49-41ab-aa90-80d23f75c83a)
 
- # Report Snapshot- key_matrics page (Power BI DESKTOP)
+ ### Report Snapshot- key_matrics page (Power BI DESKTOP)
 
 ![key_matrics](https://github.com/harshitsah123/hotel_business_analysis/assets/76686265/5e9bea09-a870-406e-b2f5-012f0056bde7)
 
+### Report Snapshot- business_dashboard page (Power BI DESKTOP)
 
+![business-dashboard](https://github.com/harshitsah123/hotel_business_analysis/assets/76686265/012441f6-5240-483f-ac34-8ff32db55510)
